@@ -1,0 +1,35 @@
+IMAGE
+map-custom.jpg
+1490
+840
+
+VERTICES
+Los Angeles;302;388
+New York;464;376
+Hawaii;160;458
+Rio de Janeiro;568;622
+London;698;318
+Dubai;928;446
+Moscow;854;288
+Bejing;1134;360
+Sydney;1263;676
+Cape Town;792;658
+Cairo;836;418
+Mexico City;364;454
+
+EDGES
+Hawaii;Los Angeles;2437
+Los Angeles;New York;2476
+New York;Mexico City;2114
+Mexico City;Los Angeles;1664
+Hawaii;Sydney;5220
+New York;Rio de Janeiro;4875
+New York;London;3298
+London;Dubai;3673
+Dubai;Cairo;1343
+Dubai;Moscow;2338
+Dubai;Bejing;4197
+Bejing;Sydney;5184
+Cape Town;Rio de Janeiro;4404
+Cape Town;Cairo;4352
+Moscow;Bejing;3631
